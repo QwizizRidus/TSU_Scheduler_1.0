@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.2703125" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/drawable/add_icon.xml" value="0.2703125" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/drawable/ic_baseline_schedule_24.xml" value="0.2703125" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/drawable/ic_launcher_background.xml" value="0.2703125" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/activity_introduction.xml" value="0.4" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/activity_main.xml" value="0.264" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/content_item.xml" value="0.23278985507246377" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/date_row_type.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/day_schedule_item.xml" value="0.4742468415937804" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/drawer_row_layout.xml" value="0.23731884057971014" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/fragment_day.xml" value="0.264" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/schedule_item_row.xml" value="0.2223731884057971" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/subject_row_type.xml" value="0.4" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/layout/time_item.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/menu/main_menu.xml" value="0.25416666666666665" />
+        <entry key="..\:/Users/skviz/AndroidStudioProjects/TSUScheduler/app/src/main/res/xml/network_security_config.xml" value="0.13020833333333334" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

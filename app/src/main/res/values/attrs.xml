@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <attr name="toolbarColor" format="color"/>
+    <attr name="navDrawerColor" format="color"/>
+    <attr name="scheduleHeaderColor" format="color"/>
+    
+</resources>
